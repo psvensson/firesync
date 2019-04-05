@@ -1,0 +1,23 @@
+{
+  "name": "pubsub-functions",
+  "version": "1.0.0",
+  "description": "A framework to easily invoke cloud functions from other cloud function through PubSub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvensson/pubsub-functions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psvensson/pubsub-functions/issues"
+  },
+  "homepage": "https://github.com/psvensson/pubsub-functions#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
